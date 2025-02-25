@@ -1,0 +1,5 @@
+{
+    "scripts": {
+      "build": "mkdir -p _site && cp -r * _site/"
+    }
+  }
